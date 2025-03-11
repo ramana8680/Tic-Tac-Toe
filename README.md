@@ -22,6 +22,6 @@ Clone the Repository
 
 To get a copy of this project, run the following command:
 
-    git clone https://github.com/your-username/tic-tac-toe.git
+    git clone https://github.com/ramana8680/Tic-Tac-Toe.git
 
 Replace "your-username" with your actual GitHub username.
