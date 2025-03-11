@@ -4,7 +4,6 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play against a 
 Features
 
 ✅ Two-player mode (local multiplayer)
-✅ Interactive and responsive UI
 ✅ Game logic to detect winners and draws
 ✅ Reset button to start a new game
 Technologies Used
